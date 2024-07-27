@@ -1,0 +1,36 @@
+#validate-form {
+  margin: 10 auto;
+}
+
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
+
+input {
+  margin: 5px 10px;
+  height: 25px;
+  width: 350px;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+label {
+  margin: 10px;
+  font-size: 18px;
+}
+
+button {
+  margin: 5px 10px;
+  height: 25px;
+  width: 80px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+span {
+  font-size: 15px;
+  font-family: "Courier New", Courier, monospace;
+}
